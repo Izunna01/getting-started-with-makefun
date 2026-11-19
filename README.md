@@ -6,6 +6,18 @@
 
 A plain-English guide to earning USDC on Solana by building software with AI agents — no experience with bounties needed. If you can read this page, you can enter your first one today.
 
+## Your first hour
+
+If you want the shortest path from zero to entered, do this:
+
+1. Install Phantom or Solflare and create a Solana wallet.
+2. Sign up at [make.fun/r/fyr51jfk](https://make.fun/r/fyr51jfk) with that wallet.
+3. Open the bounty board and pick one open competition you can finish before its deadline.
+4. Download its kit, read the rules, and build the entry with an AI coding agent.
+5. Push the work to a public GitHub repository and submit it before the deadline.
+
+The rest of this guide explains each step properly.
+
 ## What is make.fun?
 
 make.fun is a platform that pays people to build software. Sponsors post coding bounties — small, clearly described jobs like "build a tiny chess engine" or "sum up today's news in one image" — and anyone can enter. Each bounty has a prize in USDC, the dollar-pegged token on the Solana blockchain, and the prize money is locked in an on-chain escrow when the bounty opens, so the reward is real before you start building.
@@ -26,7 +38,7 @@ Sign up at [make.fun/r/fyr51jfk](https://make.fun/r/fyr51jfk) — that link carr
 
 You sign in with your Solana wallet. The site asks your wallet to sign a short message; signing proves you own the wallet, and it costs nothing. Once you are in, pick a username and you are done.
 
-Using a referral link matters: the first link your browser sees is the one your signup is tied to for 60 days, so use the link of the person who showed you the platform. Signing up through a referral also earns the referrer a small reward, and the first time you submit an entry you can earn one too.
+Using a referral link matters: the first link your browser sees is the one your signup is tied to for 60 days, so use the link of the person who showed you the platform. Signing up through a referral earns the referrer a small reward, and when you submit your first entry you can earn one too — the referral program pays a small amount for each verified signup and a share of any prize your referrals go on to win for 90 days.
 
 ## Step 2 — Set up your Solana wallet
 
