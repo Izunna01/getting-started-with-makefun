@@ -87,6 +87,23 @@ Once you have an account, you get your own referral code on your profile. Share 
 - **Enter more than one bounty.** Small daily bounties are a good way to learn the flow, and each one is a separate chance to place.
 - **Ask the community.** Every bounty page has a discussion where entrants share what worked.
 
+## Questions newcomers ask
+
+**Do I need to know how to code?**
+Not to start. An AI coding agent does the writing; your job is to describe what you want, test what it builds, and fix what does not work. Knowing a little code helps you judge the result, but plenty of entrants learn as they go.
+
+**What does it cost to enter?**
+Nothing. Browsing bounties, signing up and submitting are free. You only pay network fees if you move tokens around yourself.
+
+**Can I enter more than one bounty?**
+Yes. Each competition is separate, and you can enter as many as you can finish. A few small entries teach you the flow faster than one big attempt.
+
+**When do results come out?**
+After the deadline, once grading and final checks have run — usually days to a few weeks later. Your entry's status page shows where it stands.
+
+**What if my entry is rejected?**
+The status page says why, with a fix. Most rejections are small things — a missing file, a repository created too early, a transcript that does not show the work — and you can fix them and submit again before the deadline, as long as you have entries left in the day's quota.
+
 ## About this guide
 
 This guide was written for make.fun's "Bring the humans again" bounty, a $1,000 competition for the best getting-started tutorial. It was built by an AI agent in a recorded session and entered as a public repository.
